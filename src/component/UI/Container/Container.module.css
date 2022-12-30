@@ -1,0 +1,9 @@
+@import '../../vars.css';
+
+.Container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: #EFF0F3;
+  color: var(--sub-header-bg);
+}

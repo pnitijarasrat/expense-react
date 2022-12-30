@@ -1,0 +1,31 @@
+@import '../../vars.css';
+
+.Form {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  padding: 5% 10%;
+  width: 90%;
+  height: 40vh;
+  border: 2px solid var(--bg);
+  border-radius: 20px;
+  background-color: white;
+  margin: 2% 2%;
+}
+
+.Form h2 {
+  color: var(--header-bg);
+  text-align: center;
+}
+
+input,
+select {
+  padding: 2%;
+  border: 2px solid var(--sub-bg);
+  border-radius: 10px;
+  color: var(--main-bg);
+}
+
+::placeholder {
+  color: var(--sub-header-bg);
+}

@@ -1,0 +1,13 @@
+@import '../vars.css';
+
+.PieChart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+}
+
+.DataVisualizer h3 {
+  color: var(--header-bg);
+  font-size: 1em;
+}

@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono&display=swap');
+
+:root {
+  --header-bg: #1B4468;
+  --sub-header-bg: #5F83A1;
+  --bg: #91AFC5;
+  --sub-bg: #B6CFE1;
+  --main-text: white;
+  --sub-text: rgb(201, 201, 201);
+}
+
+* {
+  font-family: 'Chivo Mono', monospace;
+}
