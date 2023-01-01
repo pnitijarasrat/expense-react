@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Chivo+Mono&display=swap');
 
 :root {
-  --header-bg: #1B4468;
-  --sub-header-bg: #5F83A1;
+  /* --header-bg: #1B4468; */
+  /* --sub-header-bg: #5F83A1; */
+  --header-bg: white;
+  --sub-header-bg: white;
   --bg: #91AFC5;
   --sub-bg: #B6CFE1;
   --main-text: white;

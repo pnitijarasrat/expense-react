@@ -4,6 +4,8 @@
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  background-color: #EFF0F3;
+  /* background-color: #EFF0F3; */
+  background: rgb(136, 1, 10);
+  background: radial-gradient(circle, rgba(136, 1, 10, 1) 0%, rgb(15, 1, 82) 100%);
   color: var(--sub-header-bg);
 }

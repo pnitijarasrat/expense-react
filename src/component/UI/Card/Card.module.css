@@ -3,9 +3,9 @@
 .Card {
   width: 100%;
   min-height: 40vh;
-  border: 2px solid var(--bg);
+  border: 2px solid transparent;
   border-radius: 20px;
-  background-color: white;
+  background-color: rgba(3, 0, 46, 0.5);
   margin: 2% 2% 2%;
   padding: 5% 10%;
   display: flex;

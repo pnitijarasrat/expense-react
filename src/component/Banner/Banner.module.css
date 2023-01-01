@@ -1,8 +1,19 @@
 @import '../vars.css';
 
+.Banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 
 .Banner h1 {
-  color: var(--header-bg);
+  color: white;
   text-align: center;
+}
 
+.Banner svg {
+  position: absolute;
+  color: white;
+  right: 3%;
 }

@@ -1,8 +1,8 @@
 @import '../vars.css';
 
 .Modal {
-  background-color: white;
-  border: 2px solid var(--bg);
+  background-color: rgb(1, 0, 10);
+  border: 2px solid transparent;
   border-radius: 20px;
   width: 80vw;
   min-height: 40vh;

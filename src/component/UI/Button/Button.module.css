@@ -2,11 +2,11 @@
 
 button {
   padding: 2%;
-  border: 2px solid var(--header-bg);
+  border: 1px solid var(--header-bg);
   width: 20%;
   border-radius: 10px;
   color: var(--header-bg);
-  background-color: white;
+  background-color: transparent;
   transition: 0.3s;
 }
 

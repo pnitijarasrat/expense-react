@@ -64,7 +64,7 @@ function App() {
       {detailError && <ModalOverlay onCloseModal={onCloseModalHandler} {...detailErrorProp} />}
       {categoryError && <ModalOverlay onCloseModal={onCloseModalHandler} {...categoryErrorProp} />}
       {amountError && <ModalOverlay onCloseModal={onCloseModalHandler} {...amountErrorProp} />}
-      <Banner />
+      <Banner reloadPage={reloadPage} />
       <DataVisualizer />
       <AddIncome {...errorHandlingProp} onSuccess={onShowIncomeModal} />
       <AddExpense {...errorHandlingProp} onSuccess={onShowExpenseModal} />
