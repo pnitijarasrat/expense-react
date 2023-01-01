@@ -99,13 +99,13 @@ const DataVisualizer = () => {
     <>
       {showModal && <ModalOverlay onCloseModal={onCloseModalHandler} {...dataVisualizerProp} />}
       <Card className={classes.DataVisualizer}>
-        {totalExpense !== 0 && <PieChart
+        <PieChart
           onClick={onShowModalHandler}
           data={notEmptyExpense}
           label={({ dataEntry }) => { return dataEntry.title }}
           labelStyle={{ fontSize: 5 }}
           className={classes.PieChart}
-          labelPosition={60} />}
+          labelPosition={60} />
         <h3>Total Income: {totalIncome} THB </h3>
         {totalExpense !== 0 ? <h3>Total Expense: {totalExpense} THB  </h3> : <h3>No Expense Yet !</h3>}
         <h3>Save: {totalIncome - totalExpense} THB [{savingPercentage.toFixed(2)} %]</h3>

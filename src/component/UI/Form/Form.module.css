@@ -5,10 +5,9 @@
   flex-direction: column;
   row-gap: 10px;
   padding: 5% 10%;
-  width: 90%;
   height: 40vh;
   border-radius: 20px;
-  background-color: rgba(3, 0, 46, 0.5);
+  background-color: rgba(0, 0, 0, 0.9);
   margin: 2% 2%;
 }
 
@@ -28,4 +27,14 @@ select {
 
 ::placeholder {
   color: var(--sub-header-bg);
+}
+
+@keyframes zoomOut {
+  from {
+    transform: scale(0);
+  }
+
+  to {
+    transform: scale(1);
+  }
 }

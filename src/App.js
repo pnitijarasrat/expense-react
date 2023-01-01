@@ -5,6 +5,7 @@ import AddIncome from './component/AddIncome/AddIncome';
 import AddExpense from './component/AddExpense/AddExpense';
 import Log from './component/Log/Log';
 import ModalOverlay from './component/Modal/ModalOverlay'
+import Menu from './component/Menu/Menu'
 import { useState } from 'react'
 import './App.css'
 

@@ -23,7 +23,7 @@ const AddExpense = (props) => {
 
   const addExpenseProps = {
     header: 'Add Expense',
-    symbol: '-',
+    symbol: 'Add',
     onEvent: addExpenseHandler,
     action: 'Expense'
   }

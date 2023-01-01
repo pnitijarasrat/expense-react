@@ -74,6 +74,7 @@ const Form = (props) => {
           {props.symbol}
         </Button>
       </center>
+
     </form>
   )
 }

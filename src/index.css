@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://wallpapers-clan.com/wp-content/uploads/2021/03/cartoon-big-money-dark-wallpaper-scaled.jpg');
+  background-attachment: fixed;
 }
 
 code {

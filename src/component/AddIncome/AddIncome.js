@@ -1,3 +1,4 @@
+import FeatureBackdrop from '../Modal/FeatureBackdrop'
 import Form from "../UI/Form/Form"
 
 const AddIncome = (props) => {
@@ -20,7 +21,7 @@ const AddIncome = (props) => {
 
   const AddIncomeProp = {
     header: 'Add Income',
-    symbol: '+',
+    symbol: 'Add',
     onEvent: addIncomeHandler,
     action: 'Income'
   }
