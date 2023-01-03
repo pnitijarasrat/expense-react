@@ -5,9 +5,9 @@ import AddIncome from './component/AddIncome/AddIncome';
 import AddExpense from './component/AddExpense/AddExpense';
 import Log from './component/Log/Log';
 import ModalOverlay from './component/Modal/ModalOverlay'
-import Menu from './component/Menu/Menu'
 import { useState } from 'react'
 import './App.css'
+import BarChartComponent from './component/BarChart/BarChart';
 
 function App() {
   const [detailError, setDetailError] = useState(false)
@@ -67,6 +67,7 @@ function App() {
       {amountError && <ModalOverlay onCloseModal={onCloseModalHandler} {...amountErrorProp} />}
       <Banner reloadPage={reloadPage} />
       <DataVisualizer />
+      <BarChartComponent />
       <AddIncome {...errorHandlingProp} onSuccess={onShowIncomeModal} />
       <AddExpense {...errorHandlingProp} onSuccess={onShowExpenseModal} />
       <Log />

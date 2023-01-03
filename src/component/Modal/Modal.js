@@ -6,7 +6,7 @@ const Modal = (props) => {
   return (
     <div className={classes.Modal}>
       <h1>{props.header}</h1>
-      <p>{props.modalMessage}</p>
+      <p style={{ width: '100%' }}>{props.modalMessage}</p>
       <Button onClick={props.onClickButton}>Okay</Button>
     </div>
   )

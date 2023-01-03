@@ -1,0 +1,6 @@
+@import '../vars.css';
+
+.pModal {
+  display: flex;
+  justify-content: space-between;
+}
