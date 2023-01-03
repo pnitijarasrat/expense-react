@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/expense-react/static/css/main.887f231a.css",
-    "main.js": "/expense-react/static/js/main.49ca56a4.js",
+    "main.css": "/expense-react/static/css/main.e50f9ad3.css",
+    "main.js": "/expense-react/static/js/main.de44a3c8.js",
     "static/js/787.0a10ec7e.chunk.js": "/expense-react/static/js/787.0a10ec7e.chunk.js",
+    "static/media/cartoon-big-money-dark-wallpaper-scaled.jpeg": "/expense-react/static/media/cartoon-big-money-dark-wallpaper-scaled.f03841fdff313b637527.jpeg",
     "index.html": "/expense-react/index.html",
-    "main.887f231a.css.map": "/expense-react/static/css/main.887f231a.css.map",
-    "main.49ca56a4.js.map": "/expense-react/static/js/main.49ca56a4.js.map",
+    "main.e50f9ad3.css.map": "/expense-react/static/css/main.e50f9ad3.css.map",
+    "main.de44a3c8.js.map": "/expense-react/static/js/main.de44a3c8.js.map",
     "787.0a10ec7e.chunk.js.map": "/expense-react/static/js/787.0a10ec7e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.887f231a.css",
-    "static/js/main.49ca56a4.js"
+    "static/css/main.e50f9ad3.css",
+    "static/js/main.de44a3c8.js"
   ]
 }
