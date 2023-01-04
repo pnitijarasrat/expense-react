@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/expense-react/static/css/main.247cca36.css",
+    "main.css": "/expense-react/static/css/main.8b3347c5.css",
     "main.js": "/expense-react/static/js/main.6145cfcd.js",
     "static/js/787.0a10ec7e.chunk.js": "/expense-react/static/js/787.0a10ec7e.chunk.js",
     "static/media/cartoon-big-money-dark-wallpaper-scaled.jpeg": "/expense-react/static/media/cartoon-big-money-dark-wallpaper-scaled.f03841fdff313b637527.jpeg",
     "index.html": "/expense-react/index.html",
-    "main.247cca36.css.map": "/expense-react/static/css/main.247cca36.css.map",
+    "main.8b3347c5.css.map": "/expense-react/static/css/main.8b3347c5.css.map",
     "main.6145cfcd.js.map": "/expense-react/static/js/main.6145cfcd.js.map",
     "787.0a10ec7e.chunk.js.map": "/expense-react/static/js/787.0a10ec7e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.247cca36.css",
+    "static/css/main.8b3347c5.css",
     "static/js/main.6145cfcd.js"
   ]
 }
