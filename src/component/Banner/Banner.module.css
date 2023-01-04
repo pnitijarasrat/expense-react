@@ -8,12 +8,12 @@
 
 
 .Banner h1 {
-  color: white;
+  color: black;
   text-align: center;
 }
 
 .Banner svg {
   position: absolute;
-  color: white;
+  color: black;
   right: 5%;
 }
