@@ -60,6 +60,11 @@ const DataVisualizer = () => {
       title: 'Transport',
       value: 0,
       color: '#708992'
+    },
+    {
+      title: 'Work',
+      value: 0,
+      color: '#123423'
     }
 
   ];

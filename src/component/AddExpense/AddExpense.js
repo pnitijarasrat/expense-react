@@ -14,7 +14,7 @@ const AddExpense = (props) => {
     console.log(data)
     props.onSuccess()
   }
-  const datalist = ['Foods', 'Clothes', 'Alcohol', 'Coffee', 'Entertainment', 'Study', 'Transport']
+  const datalist = ['Foods', 'Clothes', 'Alcohol', 'Coffee', 'Entertainment', 'Study', 'Transport', 'Work']
     .map((el) => {
       return <option key={el} value={el}>{el}</option>
     })
