@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/expense-react/static/css/main.b40ac9a5.css",
-    "main.js": "/expense-react/static/js/main.6145cfcd.js",
+    "main.css": "/expense-react/static/css/main.7ed4e674.css",
+    "main.js": "/expense-react/static/js/main.a4c93d49.js",
     "static/js/787.0a10ec7e.chunk.js": "/expense-react/static/js/787.0a10ec7e.chunk.js",
-    "static/media/papers.co-vm21-abstract-white-gray-white-rhytm-pattern-33-iphone6-wallpaper.jpg.crdownload": "/expense-react/static/media/papers.co-vm21-abstract-white-gray-white-rhytm-pattern-33-iphone6-wallpaper.jpg.a81d30884deeb64a4a52.crdownload",
     "index.html": "/expense-react/index.html",
-    "main.b40ac9a5.css.map": "/expense-react/static/css/main.b40ac9a5.css.map",
-    "main.6145cfcd.js.map": "/expense-react/static/js/main.6145cfcd.js.map",
+    "main.7ed4e674.css.map": "/expense-react/static/css/main.7ed4e674.css.map",
+    "main.a4c93d49.js.map": "/expense-react/static/js/main.a4c93d49.js.map",
     "787.0a10ec7e.chunk.js.map": "/expense-react/static/js/787.0a10ec7e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b40ac9a5.css",
-    "static/js/main.6145cfcd.js"
+    "static/css/main.7ed4e674.css",
+    "static/js/main.a4c93d49.js"
   ]
 }
